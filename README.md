@@ -7,7 +7,7 @@ A Roommate Finder Web App Designed by and for University Students
 - Kat
 
 ### Backend Developer (2) 
-- [Your Name Here] 
+-Kali 
 - [Your Name Here] 
 
 ### Frontend Developer (2)
